@@ -2,3 +2,5 @@
 .vscode/
 raw_data/
 .env
+*.ipynb*
+*DS*
