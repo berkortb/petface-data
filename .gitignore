@@ -2,5 +2,7 @@
 .vscode/
 raw_data/
 .env
-*.ipynb*
-*DS*
+src/models/store/
+.env.yaml
+.envrc
+.ipynb_checkpoints/
