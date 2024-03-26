@@ -5,4 +5,4 @@ raw_data/
 src/models/store/
 .env.yaml
 .envrc
-.ipynb_checkpoints/
+.ipynb_checkpoints/commit

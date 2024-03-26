@@ -8,7 +8,7 @@ async def process_img_for_prediction(image: Image):
     image = image.resize((256, 256)).convert("RGB")
     image = np.array(image, dtype=float)
     image = np.expand_dims(image, axis=0)
-    image /= 255.0
+    # image /= 256.0
     print(image.shape)
     return image
 
