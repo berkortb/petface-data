@@ -6,3 +6,5 @@ src/models/store/
 .env.yaml
 .envrc
 .ipynb_checkpoints/commit
+.idea
+src/__pycache__/
